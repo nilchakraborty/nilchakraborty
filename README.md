@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome/2000_600px.gif)]
+![MasterHead](https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif)
 <h1 align="center">Hi 👋, I'm Nilanjit Chakraborty</h1>
 <h3 align="center">A young frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
