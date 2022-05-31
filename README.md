@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/b9/ab/f0/b9abf0a0feb3219f56a51448d8ffae2c.gif)]
+[![MasterHead](https://i.pinimg.com/originals/b9/ab/f0/b9abf0a0feb3219f56a51448d8ffae2c/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Nilanjit Chakraborty</h1>
 <h3 align="center">A young frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
